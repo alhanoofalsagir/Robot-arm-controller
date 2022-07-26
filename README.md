@@ -7,3 +7,14 @@
 **Here when you click on a connect it will show a small window to choose the right port that connect to arduino board, then you can click on a start and say the direction you want** <br />
 
 <img src="speechtoTextPhoto.png" width="600"> <br />
+
+## command ▶ :
+
+if you have servo you can test the script connect the servo to pin 8 and write this command in seral monitor 
+
+
+```
+left
+right
+top
+```
