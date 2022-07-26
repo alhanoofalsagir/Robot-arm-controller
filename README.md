@@ -1,1 +1,7 @@
-# IOT-SecondTask
+## Internet of things task🗣:<br />
+**○ Web Page Programming for Arm Control Using web serial API** <br />
+**○ Writing Arduino Code for Control**<br />
+
+## Web Page view🌐:<br />
+
+**Here when you click on a connect it will show a small window to choose the right port that connect to arduino board, then you can click on a start and say the direction you want** <br />
