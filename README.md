@@ -1,4 +1,4 @@
-## Internet of things task🗣:<br />
+## IOT task🗣:<br />
 **○ Web Page Programming for Arm Control Using web serial API** <br />
 **○ Writing Arduino Code for Control**<br />
 
